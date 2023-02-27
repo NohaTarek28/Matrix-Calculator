@@ -1,0 +1,12 @@
+﻿  Final Matrix Calculator.cpp
+C:\Users\Tarek Hassan\source\repos\Final Matrix Calculator\Final Matrix Calculator.cpp(111,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Tarek Hassan\source\repos\Final Matrix Calculator\Final Matrix Calculator.cpp(167,51): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tarek Hassan\source\repos\Final Matrix Calculator\Final Matrix Calculator.cpp(172,48): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tarek Hassan\source\repos\Final Matrix Calculator\Final Matrix Calculator.cpp(228,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tarek Hassan\source\repos\Final Matrix Calculator\Final Matrix Calculator.cpp(231,36): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tarek Hassan\source\repos\Final Matrix Calculator\Final Matrix Calculator.cpp(246,33): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tarek Hassan\source\repos\Final Matrix Calculator\Final Matrix Calculator.cpp(261,45): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tarek Hassan\source\repos\Final Matrix Calculator\Final Matrix Calculator.cpp(272,44): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tarek Hassan\source\repos\Final Matrix Calculator\Final Matrix Calculator.cpp(284,33): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Tarek Hassan\source\repos\Final Matrix Calculator\Final Matrix Calculator.cpp(300,45): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Final Matrix Calculator.vcxproj -> C:\Users\Tarek Hassan\source\repos\Final Matrix Calculator\x64\Debug\Final Matrix Calculator.exe
